@@ -73,6 +73,22 @@ portfolio/
 └── images/                 # Image assets
 ```
 
+
+## Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ian12467/Web-dev-portfolio
+
+2. Navigate to the project directory
+   ```bash
+    cd Web-dev-portfolio
+
+3. Open index.html in your browser or use a live server extension (like VS Code Live Server).
+
+
 ## Future Enhancements
 
 - Add blog functionality
