@@ -10,7 +10,7 @@ This project is a comprehensive portfolio website designed to showcase a web dev
 
 - **Responsive Design**: Fully responsive layout that works on all devices (mobile, tablet, desktop)
 - **Dark/Light Mode**: Toggle between dark and light themes with persistent user preference
-- **Multiple Pages**: Home, About, Services, Portfolio, and Contact pages
+- **Multiple Pages**: Home, About, Services, Portfolio, and Contact pag
 - **Portfolio Showcase**: Grid layout with filtering capability and detailed project views
 - **Interactive Elements**: Animated navigation, testimonial slider, FAQ accordion
 - **Contact Form**: Functional contact form with validation
